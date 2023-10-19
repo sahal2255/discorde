@@ -1,0 +1,360 @@
+@font-face {
+    font-family: 'medium';
+    src: url(NotoSans-Medium.ttf);
+
+    font-family: 'bold';
+    src: url(NotoSans-Bold.ttf);
+    font-family: 'compress';
+    src: url(helvetica-compressed-5871d14b6903a.otf);
+
+    font-family: 'regular';
+    src: url(NotoSans-Regular.ttf);
+}
+
+
+
+
+
+*{
+    margin: 0;
+}
+.mainhead{
+    border: 2px sol;
+    height: 10px;
+    padding-left: 300px;
+    background-color: rgb(74, 74, 235);
+    
+}
+.logo{
+    display: flex;
+}
+.disco{
+    padding-left: 30px;
+    padding-top: 35px;
+    font-size: 16px;
+    color: white;
+    font-weight:600;
+    font-family: 'regular';
+    
+}
+.hdpad{
+    padding-left: 60px;
+    padding-top: 35px;
+    font-size: 100%;
+    color: white;
+    font-weight: 600;
+    font-family: 'regular';
+    margin-left: 25px;
+}
+.Login{
+    border-radius: 30px;
+    width: 90px;
+    height: 40px;
+    margin-left: 100px;
+}
+.back{
+    background-image: url(background2.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+    height: 650px;
+}
+.heading{
+    color: white;
+    text-align: center;
+    padding-top: 200px;
+    font-size: 56px;
+    font-weight: 800;
+    font-style: inherit;
+    font-family:inherit ;
+    
+    
+}
+.firstpara{
+    color: white;
+    width: 780px;
+    text-align: center;
+    padding-left: 620px;
+    padding-top: 30px;
+    font-family: 'medium';
+    font-weight: 300;
+    font-size:large;
+    line-height: 40px;
+    
+}
+
+
+.windo{
+    margin-top: 50px;
+   margin-left: 700PX;
+   border-radius: 50PX;
+   width: 293px;
+   height: 56px;
+   padding-bottom: 30px;
+   font-weight: 500;
+   text-align: center;
+   font-size: 20px;
+}
+.blackbut{
+    margin-left: 40px;
+    background-color: rgb(29, 28, 28);
+    color: white;font-weight: 500;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 50PX;
+   width: 293px;
+   height: 56px;
+}
+.first{
+    display: flex;
+    
+    height: 700px;
+}
+.image1{
+    padding-left: 380px;
+    margin-top: 150px;
+}
+.Create{
+    margin-top: 200px;
+    margin-left: 100px;
+    padding-left: 80px;
+    width: 420px;
+}
+.bold{
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 57px;
+    font-style: inherit;
+    font-family: 'bold';
+    
+
+}
+.para1{
+    padding-top: 40px;
+    font-size: 20px;
+    line-height: 32px;
+    font-family: 'medium';
+    font-weight: lighter;
+}
+.second{
+    display: flex;
+    padding-top: 200px;
+    margin-left: 0px;
+    background-color: rgb(253, 253, 243);
+    height: 550px;
+}
+.bold1{
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 57px;
+    height: 115px;
+    width: 380px;
+    padding-left: 400px;
+    padding-top: 40px;
+    font-family: 'bold';
+    
+}
+.para2{
+    width: 380px;
+    padding-left: 400px;
+    padding-top: 40px;
+    font-size: 20px;
+    line-height: 32px;
+    font-family: 'medium';
+    font-weight: lighter;
+}
+.img2{
+    margin-left: 150px;
+}
+.third{
+    display: flex;
+    padding-top: 200px;
+    margin-left: 0px;
+    
+    height: 550px;
+}
+.img3{
+    padding-left: 380px;
+   
+}
+.fromfew{
+    margin-top: 100px;
+    margin-left: 100px;
+    padding-left: 80px;
+    width: 380px;
+}
+.fandom{
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 57px;
+    font-style: inherit;
+    font-family: 'bold';
+}
+.para3{
+    padding-top: 40px;
+    font-size: 20px;
+    line-height: 32px;
+    font-family: 'medium';
+    font-weight: lighter;
+}
+.fourth{
+    text-align: center;
+    margin-top: 80px;
+    background-color: rgb(242, 245, 245);
+    height: 990px;
+}
+.reliable{
+    font-size: 50px;
+    
+    font-weight: 800;
+    line-height: 32.5px;
+    height: 38px;
+    padding-top: 30px;
+    
+    
+    
+}
+.para4{
+    font-size: 20px;
+    line-height: 32.5px;
+    height: 65px;
+    width: 980px;
+    padding-left: 520px;
+    padding-top: 40px;
+    font-family: "medium";
+}
+.fifth{
+    
+    background-color: rgb(242, 245, 245);
+    text-align: center;
+    padding-top: 60px;
+}
+.img4{
+    
+    
+}
+.lasthead{
+    padding-left: 850px;
+    font-size: 32px;
+    font-weight: 700;
+    width: 400px;
+    margin-top: -15px;
+    background-color: rgb(242, 245, 245);
+   
+}
+.sixth{
+    text-align: center;
+    padding-top: 50px;
+    background-color: rgb(242, 245, 245);
+}
+.st{
+}
+.bud{
+    background-color: rgb(100, 100, 223);
+    border-radius: 30px;
+    width: 300px;
+    font-size: 20px;
+    height: 50px;
+    color: white;
+}
+.foot{
+    background-color: black;
+    height: 700px;
+    margin-top: 40px;
+}
+.lastdiv{
+    display: flex;
+}
+.flag{
+    padding-left: 250px;
+    padding-top: 150px;
+}
+.usb{
+    color: aliceblue;
+    background-color: black;
+    padding-top: 150px;
+    padding-left: 10px;
+}
+.select{
+    padding-top: 150px;
+}
+.media{
+    padding-top: 200px;
+   margin-left: -170px;
+}
+.maintab{
+    width: 100%;
+    margin-left: 250px;
+}
+.ftab{
+    text-align: left;
+    padding-left: 220px;
+}
+.fhead{
+    color:blue;
+    padding-top: 50px;
+  
+    font-size: 16px;
+    line-height: 24px;
+    font-size: 16px;
+    line-height: 24px;
+}
+.fsub{
+    color: white;
+    padding-left: 220px;
+    text-align: left;
+    font-size: 16px;
+    line-height: 24px;
+}
+.fsub1{
+    color: white;
+    padding-top: -20px;
+    text-align: left;
+    padding-left: 220px;
+    font-size: 16px;
+    line-height: 24px;
+}
+.fsub2{
+    color: white;
+    padding-top: 112.5px;
+    text-align: left;
+    padding-left: 220px;
+    font-size: 16px;
+    line-height: 24px;
+    
+}
+.fsub3{
+    color: white;
+    margin-top: 250px;
+    text-align: left;
+    padding-left: 220px;
+    font-size: 16px;
+    line-height: 24px;
+}
+.under{
+    background-color: rgb(86, 65, 207);
+    height: 1px;
+    margin-top: 35px;
+    margin-left: 250px;
+    width: 75%;
+}
+.white{
+    display: flex;
+    margin-left: 250px;
+    margin-top: 25px;
+}
+.ping{
+    color: white;
+    padding-left: 30px;
+    padding-top: 25px
+}
+.sign{
+    background-color: blue;
+    border-radius: 25px;
+    color: white;
+    margin-top: 15px;
+    margin-left: 1300px;
+    height: 45px;
+    width: 90px;
+   
+}
